@@ -1,4 +1,4 @@
-# Đề tài: Xây dựng trang web bán điện thoại di động
+# Đề tài: Website bán mỹ phẩm thuần chay
 *Lớp học phần: 241IS19A01 THIẾT KẾ WEB - THỨ 7 CA 2*
 
 
