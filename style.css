@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(246, 252, 223); /* Nền trang */
+    color: rgb(26, 26, 25); /* Màu chữ mặc định */
+}
+
+header {
+    background-color: rgb(49, 81, 30);
+    color: rgb(246, 252, 223);
+}
+
+.hero {
+    background-color: rgb(26, 26, 25);
+    color: rgb(246, 252, 223);
+    text-align: center;
+    padding: 50px;
+}
+
+.products .product {
+    background-color: rgb(246, 252, 223);
+    border: 1px solid rgb(133, 159, 61);
+    padding: 20px;
+    margin: 10px;
+}
+
+.product button {
+    background-color: rgb(49, 81, 30);
+    color: rgb(246, 252, 223);
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: 859F3D;
+}
+
+.nav-left {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0 15px;
+    display: flex;
+    gap: 20px; 
+}
+
+.nav-left li {
+    color: #F6FCDF;
+    text-decoration: none;
+}
+.nav-left li a {
+    color: #F6FCDF;
+    text-decoration: none;
+}
+.search {
+}
