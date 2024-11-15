@@ -15,4 +15,7 @@
 **Website tham khảo**
 [myphamthuanchay](https://myphamthuanchay.com/)
 
+**Bảng màu**
+[colorhunt](https://colorhunt.co/palette/1a1a1931511e859f3df6fcdf)
+
 **Giới thiệu tính năng**
